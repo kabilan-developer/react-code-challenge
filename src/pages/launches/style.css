@@ -1,0 +1,11 @@
+.tab_boxes{
+    border: 1px solid lightgray;
+    border-radius: 1em;
+    height: 2em;
+    width: 9em;
+    margin-right: 2em;
+    cursor: pointer;
+}
+.launches_img_box{
+    border-radius: .5em;
+}

@@ -1,0 +1,25 @@
+.card_img_box{
+    height: 15em;
+    width: 100%;
+    overflow: hidden;
+    margin: .2em 0;
+}
+.props_box{
+    border: .5px solid lightgray;
+    padding: .3em;
+    border-radius: .5em;
+}
+.props_box:hover{
+    border: .5px solid lightgray;
+    background-color: #f5f5f5;
+    cursor: pointer;
+}
+.engine_boxes{
+    width: 33.3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 2em;
+    cursor: pointer;
+    border: .5px solid lightgray;
+}
